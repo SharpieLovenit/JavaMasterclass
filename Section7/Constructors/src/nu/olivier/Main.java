@@ -1,4 +1,4 @@
-package com.company;
+package nu.olivier;
 
 public class Main {
 
@@ -13,3 +13,4 @@ public class Main {
         System.out.println(Mike.toString());
     }
 }
+

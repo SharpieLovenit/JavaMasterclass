@@ -1,4 +1,4 @@
-package com.company;
+package nu.olivier;
 
 /**
  * Created by Stephan.Olivier on 07/16/2017.
